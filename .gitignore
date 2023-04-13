@@ -1,0 +1,6 @@
+__pycache__/
+env/
+.idea/*
+env
+img_in/
+img_out/
